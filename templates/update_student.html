@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>Update Student</h2>
+<form method="POST">
+    Name: <input type="text" name="name" value="{{ student.name }}" required><br><br>
+    Age: <input type="number" name="age" value="{{ student.age }}" required><br><br>
+    Math: <input type="number" name="math" required><br><br>
+    Science: <input type="number" name="science" required><br><br>
+    English: <input type="number" name="english" required><br><br>
+    History: <input type="number" name="history" required><br><br>
+    Computer: <input type="number" name="computer" required><br><br>
+    <button type="submit">Update & Predict</button>
+</form>
+{% endblock %}

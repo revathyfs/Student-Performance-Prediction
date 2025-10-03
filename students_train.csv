@@ -1,0 +1,11 @@
+name,age,math,science,english,history,computer,performance,total
+Alice,20,85,78,80,82,90,Pass,415
+Bob,22,45,50,55,48,40,Fail,238
+Charlie,21,70,60,65,68,72,Pass,335
+David,23,30,35,32,34,28,Fail,159
+Eva,20,95,92,90,94,96,Pass,467
+Frank,22,65,70,68,60,75,Pass,338
+Grace,21,40,42,48,46,44,Fail,220
+Helen,23,88,85,87,89,91,Pass,440
+Ian,20,55,58,53,50,52,Fail,268
+Jack,22,25,28,30,27,26,Fail,136
