@@ -2,6 +2,7 @@
 
 # Structure of the project
 
+```
 Student_Performance_Prediction/
 │── app.py                  # Flask app with CRUD + ML prediction
 │── student_model.pkl       # Saved ML model
@@ -15,3 +16,4 @@ Student_Performance_Prediction/
 │   └── update_student.html # Form to update student
 │── static/
 │   └── style.css           # CSS styling
+```
